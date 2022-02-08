@@ -1,3 +1,4 @@
 # Ignoring problematic Mac generated files
 *.DS_Store
 *.doc
+*.pde
